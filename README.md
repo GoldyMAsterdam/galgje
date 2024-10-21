@@ -16,6 +16,3 @@
 =======
 req 1: n
 res 1: Ja, die zit erin
->>>>>>> d7a87837bfc5212e78ab290aa0295936e3064071
-req 3: i
-req 4: g
