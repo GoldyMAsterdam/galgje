@@ -12,4 +12,4 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-req 1: n
+req 1: i
