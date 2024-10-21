@@ -12,7 +12,12 @@
 ![gallow](./images/1.png)
 
 ## Beurten
+<<<<<<< HEAD
+=======
 req 1: n
 res 1: Ja, die zit erin
+<<<<<<< HEAD
 
 req2: g
+=======
+>>>>>>> 2c473392fc7dd491cf6b30dc29a3a302e43caf92
